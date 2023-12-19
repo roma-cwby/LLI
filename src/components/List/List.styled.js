@@ -5,8 +5,13 @@ export const ListSection = styled.section`
   max-height: 100vh;
   width: 100vw;
 
+  overflow: hidden;
   /* background-color: #ffe4c450; */
   background-color: transparent;
+
+  @media (min-width: 768px) {
+    overflow: unset;
+  }
 
   .list__container {
     position: relative;
