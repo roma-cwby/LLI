@@ -10,5 +10,11 @@ export const HeroSection = styled.section`
     display: flex;
     align-items: center;
     justify-content: center;
+
+    h2 {
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
   }
 `;

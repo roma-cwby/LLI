@@ -6,7 +6,7 @@ export const ListSection = styled.section`
   width: 100vw;
 
   overflow: hidden;
-  /* background-color: #ffe4c450; */
+
   background-color: transparent;
 
   @media (min-width: 768px) {
