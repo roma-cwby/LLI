@@ -1,13 +1,12 @@
 import styled from 'styled-components';
 
 export const FooterSection = styled.footer`
-  background-color: transparent;
+  background-color: #30303099;
 
   .footer__container {
     padding: 50px 0;
 
     text-align: center;
-    background-color: transparent;
 
     p {
       margin-bottom: 30px;

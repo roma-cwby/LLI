@@ -29,6 +29,7 @@ body {
 
 body::-webkit-scrollbar {
   display: none;
+  color: rgb(0, 80, 0);
 }
 
 #root {
