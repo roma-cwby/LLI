@@ -6,7 +6,7 @@ export const Grat = () => {
     <GratSection>
       <div className="container grat__container">
         <div className="grat_wrap">
-          <h2>Дяка всім друзям, хто були з нами весь цей час</h2>
+          <h2>Дяка нашим друзям, які були з нами весь цей час</h2>
           <p style={{ color: 'red' }}>nikolo__hard</p>
           <p style={{ color: 'yellow' }}>4elovKEK</p>
           <p style={{ color: 'orange' }}>OleksiiUA92</p>
