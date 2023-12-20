@@ -21,6 +21,7 @@ export const GratSection = styled.section`
 
       p {
         margin-bottom: 10px;
+        font-size: 20px;
       }
 
       img {
@@ -33,7 +34,7 @@ export const GratSection = styled.section`
       }
 
       .grat_al {
-        font-size: 20px;
+        font-size: 22px;
       }
     }
   }
